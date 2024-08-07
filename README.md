@@ -15,7 +15,7 @@
 <h3 align="left">Projects:</h3>
 <p align="left">
 <a href="https://github.com/IN2000-v22-gruppe14/vaerklar" target="_blank">Værklar</a> - Android application created for the course IN2000. Provides clothing recommendations based on a multitude of weather aspects (temperature, precipitation, wind, time of day)<br>
-<a href="https://github.com/centauridesigns/in2030" target="_blank">ASP Interpreter</a> - Functional interpreter in Java for the fictitious ASP (mini-Python) programming language as developed at UiO2<br>
+<a href="https://github.com/murvold/in2030" target="_blank">ASP Interpreter</a> - Functional interpreter in Java for the fictitious ASP (mini-Python) programming language as developed at UiO2<br>
 <a href="https://github.com/murvold/platforms" target="_blank">DHIS2</a> - An application based on the APIs of the open source platform DHIS2, for stock management in a fictional country.  
 </p>
 
